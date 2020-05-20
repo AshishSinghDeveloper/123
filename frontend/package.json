@@ -17,7 +17,7 @@
     "babel-runtime": "^6.20.0",
     "bootstrap": "^3.3.7",
     "jasmine-spec-reporter": "^2.5.0",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.1",
     "lodash": "^4.14.0",
     "protractor": "^5.1.1",
     "protractor-console-plugin": "0.1.1",
